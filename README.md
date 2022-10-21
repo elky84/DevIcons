@@ -10,4 +10,6 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/elky84/DevIcons.svg)
 
 # DevIcons
-A collection of icons that can be used for various purposes
+A collection of Develop related icons that can be used for various purposes.
+
+Collect only square icon images.
